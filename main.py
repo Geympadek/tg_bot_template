@@ -1,5 +1,5 @@
 import loader
-from loader import dp, bot
+from loader import dp, bot, database
 
 from aiogram import types
 from aiogram.types import Message, CallbackQuery
